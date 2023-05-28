@@ -1,2 +1,2 @@
 # SOC_LLM
-Github repo of my soc
+Github repo of my SOC
